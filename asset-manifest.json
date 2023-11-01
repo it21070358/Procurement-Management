@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/procurement-management/static/css/main.b10ce008.css",
+    "main.js": "/procurement-management/static/js/main.10ebc06e.js",
+    "index.html": "/procurement-management/index.html",
+    "main.b10ce008.css.map": "/procurement-management/static/css/main.b10ce008.css.map",
+    "main.10ebc06e.js.map": "/procurement-management/static/js/main.10ebc06e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.10ebc06e.js"
+  ]
+}
